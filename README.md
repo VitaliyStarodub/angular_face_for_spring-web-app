@@ -1,6 +1,6 @@
 # AngDemo
 
-This project was generated as a front part to project [https://github.com/VitaliyStarodub/spring-web-app] with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6. 
+This project was generated as a front part to project [spring web app](https://github.com/VitaliyStarodub/spring-web-app) with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6. 
 
 ## Development server
 
